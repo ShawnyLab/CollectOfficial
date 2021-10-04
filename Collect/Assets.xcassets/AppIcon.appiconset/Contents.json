@@ -1,0 +1,116 @@
+{
+  "images" : [
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (3) (2)-2.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (1) (1) (1).png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (2) (1)-1.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (3) (1) (2).png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (3)-1.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (1) (2) (1)-1.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (1) (2) (1).png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (1) (2).png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (1) (2) (1) (1).png",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (3) (2)-1.png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (3) (1) (1).png",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (2) (1).png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (3) (2).png",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (3).png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (2).png",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (1) (1).png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001 (1).png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "83.5x83.5"
+    },
+    {
+      "filename" : "KakaoTalk_Photo_2021-09-20-00-41-19 001.png",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
